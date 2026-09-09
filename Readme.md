@@ -1,0 +1,2 @@
+# Harbour 
+### A developer workspace for organizing, exploring, building, and managing software projects, with tools to discover projects, inspect their structure, track development activity, and streamline your workflow
